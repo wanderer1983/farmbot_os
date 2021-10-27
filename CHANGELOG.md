@@ -4,9 +4,6 @@
 
  * Upgrade database driver.
  * Convert application to a monolith.
-
-# 14.5.0
-
  * SSL/HTTPS configuration updates.
  * Upgrade numerouse deps, such as Lua runtime and Certifi.
  * Fix issue where FarmEvents would fail to execute near boot time on Express models.
